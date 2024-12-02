@@ -1,0 +1,14 @@
+{
+  "name": "final-drilling-modulo-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./assets/js/script.js"
+  },
+  "keywords": [],
+  "author": "Carlos Fuentes Medina",
+  "license": "ISC",
+  "description": ""
+}
